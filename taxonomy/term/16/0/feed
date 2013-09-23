@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.jamesland.net"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>James Land - James Land</title>
+ <link>http://www.jamesland.net/taxonomy/term/16/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>New Pedalboard Setup (::)</title>
+ <link>http://www.jamesland.net/photos/new-pedalboard-setup</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-photo&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_photo&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; src=&quot;http://www.jamesland.net/sites/www.jamesland.net/files/sites/jamesland.net/files/img_4539-2.jpg?1280292138&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://www.jamesland.net/photo-gallery/2010">2010</category>
+ <category domain="http://www.jamesland.net/photo-gallery/james-land">James Land</category>
+ <pubDate>Wed, 28 Jul 2010 04:42:21 +0000</pubDate>
+ <dc:creator>jim</dc:creator>
+ <guid isPermaLink="false">213 at http://www.jamesland.net</guid>
+</item>
+</channel>
+</rss>
